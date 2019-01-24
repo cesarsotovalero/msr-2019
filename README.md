@@ -1,4 +1,4 @@
-Code and data for analyzing the diversity of libraries and versions in the Maven Dependency Graph (downloaded from https://zenodo.org/record/1489120)
+Code and data for analyzing the diversity of libraries and versions in the Maven Dependency Graph (dataset downloaded from https://zenodo.org/record/1489120)
 
 # Requirements
 * Neo4j to load the graph database
